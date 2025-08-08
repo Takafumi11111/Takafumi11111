@@ -18,7 +18,7 @@
 **MAPE-Kループに基づくスマートシティサービスの自律的品質制御**
 - *付 高文*, 三好 匠, 山崎 託
 - *第30回電子情報通信学会東京支部学生会研究発表会, p. 30, March 2025.*
-- **[📄 論文PDF (Paper PDF)](https://www.ieice.org/tokyo/gakusei/activity/kenkyuu-happyoukai/happyou-ronbun/30/pdf/30.pdf)**
+- **[📄 論文PDF (Paper PDF)](https://www.gakkai-web.net/ieice/gakusei/2025webpro/pdf/30.pdf**
 
 ---
 
