@@ -11,7 +11,8 @@
 ### 国際学会 (International Conference)
 **Preliminary Study on Adaptive Task and Resource Allocation for Digital Twin-Enabled Urban Services**
 - *Takafumi Fu*, Takumi Miyoshi, and Taku Yamazaki
-- *The 34th International Conference on Computer Communications and Networks (ICCCN 2025), Tokyo, Japan, August 6, 2025 (発表予定).*
+- *The 34th International Conference on Computer Communications and Networks (ICCCN 2025), Tokyo, Japan, August 6, 2025.*
+- **[📄 論文PDF (Paper PDF)](https://www.online-ecp.org/icccn2025/Home/Download?id=PID2025001518.pdf)**
 
 ### 国内学会 (Domestic Conference)
 **MAPE-Kループに基づくスマートシティサービスの自律的品質制御**
